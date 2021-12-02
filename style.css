@@ -1,7 +1,9 @@
 :root {font-family: 'Atomic Age', cursive; 
     font-family: 'Aubrey', cursive; 
     font-family: 'Orbitron', sans-serif;
-    background-color: #735E64; }
+    background-color: #735E64; 
+}
+footer {background-color: aquamarine;}
    
 h1 {text-align: center;text-decoration: underline;} /* Überschrift mittig Text und Unterstrichen */
 .nav-item, .media-links {
